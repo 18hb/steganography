@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use GD;
 use Data::Dumper;
 
 use Steganographer;

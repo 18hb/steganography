@@ -3,6 +3,7 @@
 # ------------------------------------------------------------
 package Steganographer;
 
+use GD;
 use Data::Dumper;
 
 sub new {
